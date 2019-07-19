@@ -14,7 +14,7 @@
 
         <div id="welcome" class="wel"><a href="welcome">Click here to see welcome servlet</a></div>
 
-        <img src="image1.png" alt="My picture" width="700" height="350">
+        <img src="images/imageHome.png" alt="My picture" width="700" height="350">
 
 
     </body>
