@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:13:33:20 -0700] "GET /myapp HTTP/1.1" 302 - http-bio-8888-exec-1 0
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:13:33:20 -0700] "GET /myapp/image1.png HTTP/1.1" 304 - http-bio-8888-exec-2 41
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:13:33:21 -0700] "GET /myapp/ HTTP/1.1" 200 628 http-bio-8888-exec-3 1082
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:13:33:27 -0700] "GET /myapp/hello HTTP/1.1" 200 24 http-bio-8888-exec-5 1
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:13:33:36 -0700] "GET /myapp/welcome HTTP/1.1" 200 28 http-bio-8888-exec-6 1
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:13:33:45 -0700] "POST /myapp/login HTTP/1.1" 200 71 http-bio-8888-exec-7 2
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:14:11:24 -0700] "GET /myapp HTTP/1.1" 302 - http-bio-8888-exec-9 0
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:14:11:24 -0700] "GET /myapp/image1.png HTTP/1.1" 304 - http-bio-8888-exec-1 4
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:14:11:24 -0700] "GET /myapp/ HTTP/1.1" 200 628 http-bio-8888-exec-10 7
+0:0:0:0:0:0:0:1 - - [19/Jul/2019:14:11:27 -0700] "GET /myapp/hello HTTP/1.1" 200 24 http-bio-8888-exec-10 0
