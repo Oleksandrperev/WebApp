@@ -1,3 +1,5 @@
 org/myapp/HelloServlet.class
+org/myapp/ListServlet.class
+org/myapp/AddServlet.class
 org/myapp/WelcomeServlet.class
 org/myapp/LoginServlet.class
